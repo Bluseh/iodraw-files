@@ -4,8 +4,8 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="terA1szNmh1PzafXUFuE-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="354" y="50" width="120" height="60" as="geometry" />
+        <mxCell id="terA1szNmh1PzafXUFuE-0" value="&lt;b&gt;&lt;span style=&quot;font-size:22.0pt;&lt;br/&gt;font-family:楷体_GB2312;mso-hansi-font-family:楷体_GB2312;mso-bidi-font-family:&lt;br/&gt;楷体_GB2312;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;LLM&lt;/span&gt;&lt;span style=&quot;font-size:22.0pt;&lt;br/&gt;font-family:楷体_GB2312;mso-hansi-font-family:楷体_GB2312;mso-bidi-font-family:&lt;br/&gt;楷体_GB2312;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;驱动的人机交互&lt;span lang=&quot;EN-US&quot;&gt;Agent&lt;/span&gt;设计与实现&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="50" width="166" height="1240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
