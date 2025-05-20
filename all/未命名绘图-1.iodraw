@@ -43,11 +43,18 @@
             <mxPoint x="640" y="-15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Had8FEd1VdNboZBIP-l7-18" value="1. 请求授权" style="curved=1;startArrow=none;endArrow=block;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="Had8FEd1VdNboZBIP-l7-18" value="3. 请求令牌" style="curved=1;startArrow=none;endArrow=block;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="Had8FEd1VdNboZBIP-l7-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="652" y="-18" as="sourcePoint" />
-            <mxPoint x="809" y="-18" as="targetPoint" />
+            <mxPoint x="640" y="110" as="sourcePoint" />
+            <mxPoint x="797" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Had8FEd1VdNboZBIP-l7-19" value="2. 同意授权" style="curved=1;startArrow=none;endArrow=block;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="809" y="-5" as="sourcePoint" />
+            <mxPoint x="650" y="-5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
