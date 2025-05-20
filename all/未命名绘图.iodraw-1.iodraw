@@ -4,14 +4,26 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8ZRLm6WI2U98MX0i7_Qh-34" target="8ZRLm6WI2U98MX0i7_Qh-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-34" value="文档解析：支持多种格式的文档" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8ZRLm6WI2U98MX0i7_Qh-35" target="8ZRLm6WI2U98MX0i7_Qh-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-35" value="结构数据识别：OCR图像识别、表结构识别、文档布局分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8ZRLm6WI2U98MX0i7_Qh-36" target="8ZRLm6WI2U98MX0i7_Qh-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-36" value="文本切分：基于模板的灵活切分策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8ZRLm6WI2U98MX0i7_Qh-37" target="8ZRLm6WI2U98MX0i7_Qh-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-37" value="嵌入：利用嵌入模型将切分后的文本向量化，存入数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="180" width="120" height="60" as="geometry" />
