@@ -20,10 +20,10 @@
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="terA1szNmh1PzafXUFuE-11" value="相关技术与框架" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="344" y="280" width="140" height="60" as="geometry" />
+          <mxGeometry x="190" y="230" width="140" height="230" as="geometry" />
         </mxCell>
         <mxCell id="terA1szNmh1PzafXUFuE-12" value="介绍系统主要使用的技术和框架" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="terA1szNmh1PzafXUFuE-11">
-          <mxGeometry y="30" width="140" height="30" as="geometry" />
+          <mxGeometry y="30" width="140" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
