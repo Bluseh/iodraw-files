@@ -29,7 +29,7 @@
             <mxPoint x="637" y="-105" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Had8FEd1VdNboZBIP-l7-15" value="0. 访问" style="curved=1;startArrow=none;endArrow=block;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="Had8FEd1VdNboZBIP-l7-3">
+        <mxCell id="Had8FEd1VdNboZBIP-l7-15" value="1. 请求授权" style="curved=1;startArrow=none;endArrow=block;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="Had8FEd1VdNboZBIP-l7-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="642" y="-30" as="sourcePoint" />
