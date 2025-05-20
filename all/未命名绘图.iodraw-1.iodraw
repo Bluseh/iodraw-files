@@ -8,7 +8,7 @@
           <mxGeometry x="280" y="300" width="255" height="84" as="geometry" />
         </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-25" value="多样数据识别: 包括 OCR 图片识别、文档布局分析、表结构识别" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="495" y="490" width="222" height="84" as="geometry" />
+          <mxGeometry x="303" y="460" width="222" height="84" as="geometry" />
         </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-26" value="文本切片: 基于模板的灵活切片策略" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="767" y="499" width="206" height="67" as="geometry" />
@@ -19,7 +19,7 @@
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-28" value="索引构建: 创建高效的检索索引" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1263" y="499" width="174" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="8ZRLm6WI2U98MX0i7_Qh-24" target="8ZRLm6WI2U98MX0i7_Qh-25">
+        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8ZRLm6WI2U98MX0i7_Qh-24" target="8ZRLm6WI2U98MX0i7_Qh-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
