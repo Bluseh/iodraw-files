@@ -64,12 +64,15 @@
             <mxPoint x="824" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Had8FEd1VdNboZBIP-l7-21" value="4. 发放令牌" style="curved=1;startArrow=none;endArrow=block;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.996;entryY=0.634;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="Had8FEd1VdNboZBIP-l7-21" value="6. 开放资源" style="curved=1;startArrow=none;endArrow=block;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.996;entryY=0.634;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="824" y="230" as="sourcePoint" />
             <mxPoint x="639" y="230" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Had8FEd1VdNboZBIP-l7-22" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="740" y="20" width="20" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
