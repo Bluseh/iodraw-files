@@ -36,11 +36,11 @@
             <mxPoint x="635" y="-20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Had8FEd1VdNboZBIP-l7-17" value="1. 请求授权" style="curved=1;startArrow=none;endArrow=block;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Had8FEd1VdNboZBIP-l7-3">
+        <mxCell id="Had8FEd1VdNboZBIP-l7-17" value="2. 同意授权" style="curved=1;startArrow=none;endArrow=block;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Had8FEd1VdNboZBIP-l7-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="790" y="-14" as="sourcePoint" />
-            <mxPoint x="640" y="-20" as="targetPoint" />
+            <mxPoint x="640" y="-15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
