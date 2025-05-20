@@ -16,6 +16,9 @@
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-37" value="嵌入：利用嵌入模型将切分后的文本向量化，存入数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="180" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-38" value="文档解析：支持多种格式的文档" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
