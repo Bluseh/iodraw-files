@@ -10,6 +10,9 @@
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-35" value="结构数据识别：OCR图像识别、表结构识别、文档布局分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-36" value="文档解析：支持多种格式的文档" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
