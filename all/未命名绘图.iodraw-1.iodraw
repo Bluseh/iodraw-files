@@ -13,7 +13,7 @@
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-36" value="文本切分：基于模板的灵活切分策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-37" value="文本切分：基于模板的灵活切分策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-37" value="嵌入：利用嵌入模型将切分后的文本向量化，存入数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
