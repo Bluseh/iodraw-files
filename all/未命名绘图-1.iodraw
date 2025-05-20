@@ -57,6 +57,13 @@
             <mxPoint x="665" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Had8FEd1VdNboZBIP-l7-20" value="3. 请求令牌" style="curved=1;startArrow=none;endArrow=block;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="640" y="211" as="sourcePoint" />
+            <mxPoint x="824" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
