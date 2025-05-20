@@ -38,7 +38,7 @@
           <mxGeometry x="40" y="300" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Had8FEd1VdNboZBIP-l7-50" value="工具配置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Had8FEd1VdNboZBIP-l7-30">
-          <mxGeometry x="175" y="250" width="80" height="50" as="geometry" />
+          <mxGeometry x="170" y="240" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Had8FEd1VdNboZBIP-l7-51" value="工具调用" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Had8FEd1VdNboZBIP-l7-30">
           <mxGeometry x="50" y="160" width="80" height="50" as="geometry" />
@@ -85,6 +85,12 @@
             <Array as="points">
               <mxPoint x="480" y="440" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Had8FEd1VdNboZBIP-l7-62" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="380" as="sourcePoint" />
+            <mxPoint x="320" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
