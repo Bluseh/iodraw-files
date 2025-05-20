@@ -14,7 +14,7 @@
           <mxGeometry x="263" y="107" width="194" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Had8FEd1VdNboZBIP-l7-4" value="第三方应用程序 (客户端)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="511" y="107" width="237" height="49" as="geometry" />
+          <mxGeometry x="380" y="180" width="237" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Had8FEd1VdNboZBIP-l7-5" value="认证服务器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="826" y="57" width="140" height="49" as="geometry" />
