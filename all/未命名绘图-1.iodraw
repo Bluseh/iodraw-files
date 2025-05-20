@@ -11,10 +11,10 @@
           <mxGeometry x="801" y="-130" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Had8FEd1VdNboZBIP-l7-3" value="用户代理 (浏览器/APP)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="799" y="-60" width="194" height="49" as="geometry" />
+          <mxGeometry x="799" y="-40" width="194" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Had8FEd1VdNboZBIP-l7-4" value="第三方应用程序 (客户端)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="490" y="-140" width="147" height="369" as="geometry" />
+          <mxGeometry x="490" y="-130" width="150" height="410" as="geometry" />
         </mxCell>
         <mxCell id="Had8FEd1VdNboZBIP-l7-5" value="认证服务器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="824" y="97" width="140" height="49" as="geometry" />
