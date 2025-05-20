@@ -4,6 +4,9 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="terA1szNmh1PzafXUFuE-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="terA1szNmh1PzafXUFuE-0" target="terA1szNmh1PzafXUFuE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="terA1szNmh1PzafXUFuE-0" value="LLM驱动的人机交互Agent设计与实现" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="425" y="30" width="130" height="70" as="geometry" />
         </mxCell>
