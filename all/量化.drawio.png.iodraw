@@ -70,10 +70,10 @@
         <mxCell id="terA1szNmh1PzafXUFuE-39" value="系统拓展与维护的方向" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="terA1szNmh1PzafXUFuE-37">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="terA1szNmh1PzafXUFuE-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="terA1szNmh1PzafXUFuE-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="terA1szNmh1PzafXUFuE-0">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="760" y="100" as="sourcePoint" />
-            <mxPoint x="810" y="50" as="targetPoint" />
+            <mxPoint x="535" y="160" as="sourcePoint" />
+            <mxPoint x="540" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
