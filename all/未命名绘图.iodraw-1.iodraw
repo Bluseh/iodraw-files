@@ -94,7 +94,7 @@
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-121" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;工具调用模块&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-75">
           <mxGeometry x="134" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-122" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-75">
+        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-122" value="接口模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-75">
           <mxGeometry x="260" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-123" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-75">
