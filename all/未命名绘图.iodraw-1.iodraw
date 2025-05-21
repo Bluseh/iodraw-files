@@ -55,6 +55,9 @@
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-84" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Redis&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-80">
           <mxGeometry x="133.5" y="60" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-86" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Open WebUI框架&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="355" width="140" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
