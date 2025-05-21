@@ -52,7 +52,7 @@
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-197" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;提交的数据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-196">
           <mxGeometry x="10" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-198" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Inlet方法&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-196">
+        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-198" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Pipe方法&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-196">
           <mxGeometry x="150" y="30" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-199" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Values&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-196">
@@ -61,17 +61,11 @@
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-200" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1.发送文本补全请求&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-196">
           <mxGeometry x="10" y="180" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-201" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;2.监控数据并做错误处理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-196">
+        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-201" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;2.处理文本补全请求&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-196">
           <mxGeometry x="170" y="180" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-202" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;过滤后的数据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-196">
-          <mxGeometry x="350" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-203" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;4.对补全后的信息后处理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-196">
           <mxGeometry x="520" y="180" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-204" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;outlet方法&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-196">
-          <mxGeometry x="500" y="30" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-205" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Values&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-196">
           <mxGeometry x="500" y="30" width="70" height="30" as="geometry" />
