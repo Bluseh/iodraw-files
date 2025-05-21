@@ -77,10 +77,10 @@
           <mxGeometry y="80" width="510" height="100" as="geometry" />
         </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-107" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;PWA支持&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-106">
-          <mxGeometry x="14" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-108" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;HTTPS&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-106">
-          <mxGeometry x="140" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-109" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;HTTPS&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-106">
           <mxGeometry x="270" y="30" width="120" height="60" as="geometry" />
