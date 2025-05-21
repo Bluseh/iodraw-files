@@ -64,7 +64,7 @@
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-99" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;聊天补全&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-98">
           <mxGeometry x="14" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-102" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;集成配置&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-98">
+        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-102" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;API调用&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-98">
           <mxGeometry x="14" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-103" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;模型管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-98">
