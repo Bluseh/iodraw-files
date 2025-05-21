@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-46" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="120" width="200" height="200" as="geometry" />
+        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-46" value="访问层" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="174" y="130" width="480" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
