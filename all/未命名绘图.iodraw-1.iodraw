@@ -59,7 +59,7 @@
           <mxGeometry x="140" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-98" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;系统管理&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-70">
-          <mxGeometry x="360" y="40" width="161.5" height="240" as="geometry" />
+          <mxGeometry x="310" y="30" width="161.5" height="240" as="geometry" />
         </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-99" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;RAG配置&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-98">
           <mxGeometry x="14" y="30" width="120" height="60" as="geometry" />
