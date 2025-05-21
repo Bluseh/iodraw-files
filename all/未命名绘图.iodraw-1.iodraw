@@ -34,12 +34,6 @@
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-69" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Open WebUI框架&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-57">
           <mxGeometry x="50" y="45" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-70" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;应用层&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="160" y="470" width="510" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-86" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;系统管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-70">
-          <mxGeometry x="10" y="35" width="140" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-75" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;服务层&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="160" y="640" width="510" height="240" as="geometry" />
         </mxCell>
