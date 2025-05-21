@@ -67,7 +67,7 @@
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-206" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;返回的聊天信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-196">
           <mxGeometry x="350" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-209" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;2.处理文本补全请求&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-196">
+        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-209" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Pipe和Fliter的集成：&lt;/span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;1. Pipe也支持&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-196">
           <mxGeometry x="510" y="66" width="280" height="144" as="geometry" />
         </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-208" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
