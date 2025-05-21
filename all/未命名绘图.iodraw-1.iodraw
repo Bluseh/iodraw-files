@@ -8,7 +8,7 @@
           <mxGeometry x="160" y="170" width="520" height="100" as="geometry" />
         </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-47" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;API服务接口&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-46">
-          <mxGeometry y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-48" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;手机客户端&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-46">
           <mxGeometry x="260" y="30" width="120" height="60" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="140" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-69" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Open WebUI框架&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-57">
-          <mxGeometry x="60" y="90" width="120" height="50" as="geometry" />
+          <mxGeometry x="60" y="80" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-151" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Swagger&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-57">
           <mxGeometry x="60" y="30" width="120" height="45" as="geometry" />
