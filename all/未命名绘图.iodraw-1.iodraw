@@ -83,10 +83,10 @@
           <mxGeometry x="130" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-109" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;RAGFlow&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-106">
-          <mxGeometry x="260" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-111" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;OpenAI兼容服务&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-106">
-          <mxGeometry x="380" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-112" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;集成模块&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-75">
           <mxGeometry y="30" width="120" height="60" as="geometry" />
