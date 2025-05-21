@@ -118,8 +118,8 @@
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-128" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Mysql&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-129">
           <mxGeometry x="223.5" y="30" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-136" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;文档&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-80">
-          <mxGeometry x="361" y="100" width="89" height="60" as="geometry" />
+        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-136" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;内存&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-80">
+          <mxGeometry x="371" y="40" width="89" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-144" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;文档&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="1090" width="89" height="60" as="geometry" />
