@@ -7,8 +7,11 @@
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-46" value="访问层" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="174" y="130" width="480" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-47" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-46">
-          <mxGeometry x="46" y="45" width="120" height="60" as="geometry" />
+        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-47" value="PC端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-46">
+          <mxGeometry x="26" y="45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-48" value="PC端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="185" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
