@@ -85,6 +85,9 @@
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-109" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;RAGFlow&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-106">
           <mxGeometry x="260" y="30" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-111" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;OpenAI兼容服务&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-106">
+          <mxGeometry x="390" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-80" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;资源层&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="158" y="940" width="512" height="100" as="geometry" />
         </mxCell>
@@ -99,9 +102,6 @@
         </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-84" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Redis&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-80">
           <mxGeometry x="133.5" y="30" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-111" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;RAGFlow&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
