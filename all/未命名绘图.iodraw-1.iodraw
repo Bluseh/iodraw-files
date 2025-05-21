@@ -32,7 +32,7 @@
           <mxGeometry x="140" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-69" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Open WebUI框架&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-57">
-          <mxGeometry x="50" y="45" width="140" height="70" as="geometry" />
+          <mxGeometry x="50" y="20" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-70" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;应用层&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="160" y="450" width="520" height="290" as="geometry" />
