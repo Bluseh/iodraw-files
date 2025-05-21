@@ -16,7 +16,7 @@
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-49" value="平板客户端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-46">
           <mxGeometry x="346" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-50" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-46">
+        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-50" value="PWA支持" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-46">
           <mxGeometry x="166" y="30" width="314" height="100" as="geometry" />
         </mxCell>
       </root>
