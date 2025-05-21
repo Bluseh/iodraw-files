@@ -19,6 +19,21 @@
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-50" value="PWA支持" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-46">
           <mxGeometry x="166" y="30" width="314" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-52" value="访问层" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="174" y="300" width="496" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-53" value="PC客户端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-52">
+          <mxGeometry x="26" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-54" value="手机客户端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-52">
+          <mxGeometry x="180" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-55" value="平板客户端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-52">
+          <mxGeometry x="346" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-56" value="PWA支持" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-52">
+          <mxGeometry x="166" y="30" width="314" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
