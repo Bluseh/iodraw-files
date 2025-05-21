@@ -73,7 +73,7 @@
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-82" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;MinIO&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-80">
           <mxGeometry x="260" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-83" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;平板客户端&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-80">
+        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-83" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Mysql&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-80">
           <mxGeometry x="390" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-84" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Redis&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-80">
