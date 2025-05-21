@@ -52,7 +52,7 @@
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-93" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;集成配置&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-88">
           <mxGeometry x="14" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-95" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;用户管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-88">
+        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-95" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;模型管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-88">
           <mxGeometry x="14" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-75" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;服务层&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
@@ -72,6 +72,9 @@
         </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-84" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Redis&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-80">
           <mxGeometry x="133.5" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-96" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;用户管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
