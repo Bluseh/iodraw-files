@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-45" value="访问层" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-45" value="" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="190" y="130" width="530" height="140" as="geometry" />
         </mxCell>
       </root>
