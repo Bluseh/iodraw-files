@@ -106,6 +106,9 @@
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-124" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;SQLite&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-80">
           <mxGeometry x="21" y="45" width="60" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8ZRLm6WI2U98MX0i7_Qh-80" source="8ZRLm6WI2U98MX0i7_Qh-125" target="8ZRLm6WI2U98MX0i7_Qh-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-125" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Redis&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-80">
           <mxGeometry x="91" y="45" width="60" height="80" as="geometry" />
         </mxCell>
@@ -116,7 +119,7 @@
           <mxGeometry x="231" y="45" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-129" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;第三方框架/服务&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-80">
-          <mxGeometry x="-29" y="20" width="409" height="105" as="geometry" />
+          <mxGeometry y="20" width="380" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
