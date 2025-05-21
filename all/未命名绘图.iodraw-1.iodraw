@@ -5,16 +5,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-46" value="访问层" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="174" y="130" width="480" height="150" as="geometry" />
+          <mxGeometry x="174" y="130" width="480" height="260" as="geometry" />
         </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-47" value="PC客户端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-46">
           <mxGeometry x="26" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-48" value="手机客户端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-46">
-          <mxGeometry x="180" y="45" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-49" value="平板客户端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-46">
-          <mxGeometry x="346" y="45" width="120" height="60" as="geometry" />
+          <mxGeometry x="346" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-50" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-46">
+          <mxGeometry x="226" y="60" width="244" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
