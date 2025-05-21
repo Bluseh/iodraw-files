@@ -46,10 +46,10 @@
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-90" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;工具配置&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-88">
           <mxGeometry x="140" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-92" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;HTTPS&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-88">
+        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-92" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;用户管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-88">
           <mxGeometry x="140" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-93" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;PWA支持&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-88">
+        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-93" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;集成配置&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-88">
           <mxGeometry x="14" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-75" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;服务层&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
