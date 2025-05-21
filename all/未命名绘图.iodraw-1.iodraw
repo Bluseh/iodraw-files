@@ -35,7 +35,7 @@
           <mxGeometry x="50" y="45" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-70" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;应用层&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="160" y="470" width="510" height="290" as="geometry" />
+          <mxGeometry x="160" y="470" width="521.5" height="290" as="geometry" />
         </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-88" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;系统管理&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-70">
           <mxGeometry x="10" y="30" width="270" height="240" as="geometry" />
@@ -58,6 +58,18 @@
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-97" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;系统监控&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-88">
           <mxGeometry x="140" y="170" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-98" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;系统管理&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-70">
+          <mxGeometry x="360" y="40" width="161.5" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-99" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;RAG配置&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-98">
+          <mxGeometry x="14" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-102" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;集成配置&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-98">
+          <mxGeometry x="14" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-103" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;模型管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-98">
+          <mxGeometry x="14" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-75" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;服务层&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="160" y="770" width="510" height="160" as="geometry" />
         </mxCell>
@@ -75,27 +87,6 @@
         </mxCell>
         <mxCell id="8ZRLm6WI2U98MX0i7_Qh-84" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Redis&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-80">
           <mxGeometry x="133.5" y="60" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-98" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;系统管理&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="180" y="510" width="270" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-99" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;RAG配置&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-98">
-          <mxGeometry x="14" y="30" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-100" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;工具配置&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-98">
-          <mxGeometry x="140" y="30" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-101" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;用户管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-98">
-          <mxGeometry x="140" y="100" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-102" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;集成配置&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-98">
-          <mxGeometry x="14" y="100" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-103" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;模型管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-98">
-          <mxGeometry x="14" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8ZRLm6WI2U98MX0i7_Qh-104" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;系统监控&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8ZRLm6WI2U98MX0i7_Qh-98">
-          <mxGeometry x="140" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
