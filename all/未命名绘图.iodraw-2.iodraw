@@ -10,6 +10,9 @@
         <mxCell id="xT9zOcGYk-Uqd-LydbjZ-99" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;代理层&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="250" width="240" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="xT9zOcGYk-Uqd-LydbjZ-100" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;安全层&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="250" width="240" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
