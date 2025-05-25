@@ -22,7 +22,7 @@
         <mxCell id="xT9zOcGYk-Uqd-LydbjZ-101" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;输出层&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="610" width="240" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="xT9zOcGYk-Uqd-LydbjZ-102" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;读取环境变量，密钥&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;通过stdio与MCP工具通信&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xT9zOcGYk-Uqd-LydbjZ-101">
+        <mxCell id="xT9zOcGYk-Uqd-LydbjZ-102" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;将stdio转为HTTP响应&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xT9zOcGYk-Uqd-LydbjZ-101">
           <mxGeometry y="35" width="240" height="65" as="geometry" />
         </mxCell>
         <mxCell id="xT9zOcGYk-Uqd-LydbjZ-106" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;读取环境变量，密钥&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;通过stdio与MCP工具通信&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
