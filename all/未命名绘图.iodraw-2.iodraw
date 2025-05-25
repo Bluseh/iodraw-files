@@ -43,7 +43,7 @@
             <mxPoint x="270" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xT9zOcGYk-Uqd-LydbjZ-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="xT9zOcGYk-Uqd-LydbjZ-23">
+        <mxCell id="xT9zOcGYk-Uqd-LydbjZ-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="xT9zOcGYk-Uqd-LydbjZ-30" target="xT9zOcGYk-Uqd-LydbjZ-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="220" as="sourcePoint" />
             <mxPoint x="180" y="240" as="targetPoint" />
@@ -53,7 +53,13 @@
           <mxGeometry x="270" y="310" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xT9zOcGYk-Uqd-LydbjZ-30" value="Pipelines Server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT9zOcGYk-Uqd-LydbjZ-31" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="360" as="sourcePoint" />
+            <mxPoint x="230" y="310" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
