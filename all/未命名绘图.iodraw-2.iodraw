@@ -25,9 +25,6 @@
         <mxCell id="xT9zOcGYk-Uqd-LydbjZ-101" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;输出层&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="370" width="240" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="xT9zOcGYk-Uqd-LydbjZ-105" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;HTTPS&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;密钥认证&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="410" width="240" height="65" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
