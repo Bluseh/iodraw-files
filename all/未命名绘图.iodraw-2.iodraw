@@ -13,7 +13,7 @@
         <mxCell id="xT9zOcGYk-Uqd-LydbjZ-36" value="向量化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="290" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xT9zOcGYk-Uqd-LydbjZ-38" value="向量化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xT9zOcGYk-Uqd-LydbjZ-38" value="索引" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="340" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
