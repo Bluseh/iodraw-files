@@ -19,10 +19,16 @@
         <mxCell id="xT9zOcGYk-Uqd-LydbjZ-40" value="存储" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="390" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xT9zOcGYk-Uqd-LydbjZ-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="xT9zOcGYk-Uqd-LydbjZ-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xT9zOcGYk-Uqd-LydbjZ-33" target="xT9zOcGYk-Uqd-LydbjZ-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="300" as="sourcePoint" />
             <mxPoint x="200" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xT9zOcGYk-Uqd-LydbjZ-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="235" y="230" as="sourcePoint" />
+            <mxPoint x="235" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
