@@ -13,7 +13,7 @@
         <mxCell id="xT9zOcGYk-Uqd-LydbjZ-99" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;代理层&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="250" width="240" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="xT9zOcGYk-Uqd-LydbjZ-103" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;基于FastAPI，将stdio通信转为HTTP通信&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xT9zOcGYk-Uqd-LydbjZ-99">
+        <mxCell id="xT9zOcGYk-Uqd-LydbjZ-103" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;基于FastAPI，将stdio通信转为HTTP通信，兼容OpenAI&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xT9zOcGYk-Uqd-LydbjZ-99">
           <mxGeometry y="35" width="240" height="65" as="geometry" />
         </mxCell>
         <mxCell id="xT9zOcGYk-Uqd-LydbjZ-100" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;安全层&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
