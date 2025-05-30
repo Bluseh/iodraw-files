@@ -1,0 +1,61 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
+  <diagram name="Page-1" id="67NyU00lhY6DdaDPgvnv">
+    <mxGraphModel dx="867" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="o43TEOtG4jOhRwTBfm9W-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o43TEOtG4jOhRwTBfm9W-2" target="o43TEOtG4jOhRwTBfm9W-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o43TEOtG4jOhRwTBfm9W-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o43TEOtG4jOhRwTBfm9W-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o43TEOtG4jOhRwTBfm9W-4" target="o43TEOtG4jOhRwTBfm9W-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o43TEOtG4jOhRwTBfm9W-4" value="准备微调数据集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o43TEOtG4jOhRwTBfm9W-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o43TEOtG4jOhRwTBfm9W-6" target="o43TEOtG4jOhRwTBfm9W-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o43TEOtG4jOhRwTBfm9W-6" value="模型微调" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o43TEOtG4jOhRwTBfm9W-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o43TEOtG4jOhRwTBfm9W-8" target="o43TEOtG4jOhRwTBfm9W-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o43TEOtG4jOhRwTBfm9W-8" value="微调数据集格式化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o43TEOtG4jOhRwTBfm9W-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o43TEOtG4jOhRwTBfm9W-10" target="o43TEOtG4jOhRwTBfm9W-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o43TEOtG4jOhRwTBfm9W-10" value="模型量化和校准" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o43TEOtG4jOhRwTBfm9W-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o43TEOtG4jOhRwTBfm9W-12" target="o43TEOtG4jOhRwTBfm9W-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o43TEOtG4jOhRwTBfm9W-12" value="保存量化模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o43TEOtG4jOhRwTBfm9W-13" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o43TEOtG4jOhRwTBfm9W-14" value="微调数据集遵循AIpaca格式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="215" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="o43TEOtG4jOhRwTBfm9W-15" value="使用ChatML模板进行格式化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="417.5" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="o43TEOtG4jOhRwTBfm9W-16" value="使用Swift框架进行LoRA微调" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="317.5" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="o43TEOtG4jOhRwTBfm9W-17" value="使用AutoAWQ进行量化和校准" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="517.5" width="100" height="25" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
