@@ -44,13 +44,13 @@
           <mxGeometry x="850" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o43TEOtG4jOhRwTBfm9W-14" value="微调数据集遵循AIpaca格式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="389" width="100" height="25" as="geometry" />
+          <mxGeometry x="260" y="245" width="100" height="25" as="geometry" />
         </mxCell>
         <mxCell id="o43TEOtG4jOhRwTBfm9W-15" value="使用ChatML模板进行格式化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="100" width="100" height="25" as="geometry" />
+          <mxGeometry x="560" y="245" width="100" height="25" as="geometry" />
         </mxCell>
         <mxCell id="o43TEOtG4jOhRwTBfm9W-16" value="使用Swift框架进行LoRA微调" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="220" width="100" height="25" as="geometry" />
+          <mxGeometry x="410" y="245" width="100" height="25" as="geometry" />
         </mxCell>
         <mxCell id="o43TEOtG4jOhRwTBfm9W-17" value="使用AutoAWQ进行量化和校准" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="710" y="100" width="100" height="25" as="geometry" />
