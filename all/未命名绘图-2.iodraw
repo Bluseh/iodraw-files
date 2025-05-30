@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o43TEOtG4jOhRwTBfm9W-8" value="微调数据集格式化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o43TEOtG4jOhRwTBfm9W-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o43TEOtG4jOhRwTBfm9W-10" target="o43TEOtG4jOhRwTBfm9W-12">
           <mxGeometry relative="1" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o43TEOtG4jOhRwTBfm9W-12" value="保存量化模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="465" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="850" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o43TEOtG4jOhRwTBfm9W-13" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="465" y="730" width="120" height="60" as="geometry" />
