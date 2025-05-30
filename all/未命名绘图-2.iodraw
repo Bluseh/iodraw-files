@@ -26,13 +26,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o43TEOtG4jOhRwTBfm9W-8" value="微调数据集格式化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="465" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o43TEOtG4jOhRwTBfm9W-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o43TEOtG4jOhRwTBfm9W-10" target="o43TEOtG4jOhRwTBfm9W-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o43TEOtG4jOhRwTBfm9W-10" value="模型量化和校准" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="465" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="700" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o43TEOtG4jOhRwTBfm9W-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o43TEOtG4jOhRwTBfm9W-12" target="o43TEOtG4jOhRwTBfm9W-13">
           <mxGeometry relative="1" as="geometry" />
